@@ -2,7 +2,7 @@
 
 Welcome to my first Python project!  
 This is a simple **Slot Machine** game you can run in your terminal.  
-Hope you enjoy it :)
+Hope you enjoy it and star it if you liked it! :)
 
 ---
 
