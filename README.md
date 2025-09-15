@@ -14,5 +14,7 @@ Hope you enjoy it :)
 ---
 
 
+Dont forget to install the required package
 
 ```diff
+pip install colorama
