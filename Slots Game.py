@@ -50,7 +50,7 @@ try:
                 elif raspuns.lower() == "yes":
                     continue
                 elif raspuns.lower() == "":
-                    print("Error please enter a numer!")
+                    print("Error please enter a numeber!")
                     break
 except ValueError:
      print( Back.BLUE + "Please enter a valid number!:")
@@ -58,3 +58,4 @@ except ValueError:
         
 
         
+
