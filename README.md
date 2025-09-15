@@ -9,7 +9,7 @@ Hope you enjoy it :)
 ## 🟩 Features
 - 🎲 Randomized slot rolls
 - 💰 Virtual balance system
-- 🔁 Play until you run out of credits
+- 🔁 Play until you run out of money
 
 ---
 
